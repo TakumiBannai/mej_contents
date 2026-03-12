@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MetaEarth Journal〜"
+title: "MetaEarth Journal"
 ---
 
 # ザンビアの水資源〜ザンベジ川の現地調査〜

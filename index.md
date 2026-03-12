@@ -1,6 +1,9 @@
-# MetaEarthJournal
+# MetaEarth Journal
 
 これはGitHub Pagesで作ったブログのトップページです。
 
 ### 記事一覧
-- [ブログ記事はこちら](./blog.md)
+- [一般向け](./business/)
+- [ビジネス向け](./general/)
+- [技術者向け](./technical/)
+
